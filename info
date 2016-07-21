@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "title": "Survival System",
+    "author": "Lorinth",
+    "description": "Adds hunger and thirst to the game. Doesn't implement ui, sends descriptors instead",
+    "priority": 1,
+    "serverOnly": false
+}

@@ -1,0 +1,34 @@
+# -*- coding: utf-8 -*-
+# version: 0.9.0
+
+name = "English"
+
+
+locale("Full", "Full")
+locale("FullDesc", "You are full and are regenerating 2% HP")
+locale("Hydrated", "Hydrated")
+locale("HydratedDesc", "You are well hydrated and regenerate 5% SP")
+locale("Hunger", "Starving")
+locale("HungerDesc", "You are starving and are losing health over time")
+locale("Thirst", "Dehydrated")
+locale("ThirstDesc", "You are dehydrated")
+
+locale("CannotEat_Full", "You are too full to eat.")
+locale("CannotEat", "You have just eaten, wait another {time} seconds.")
+
+locale("ThirstState_Dehydrated", "You are feeling extremely dizzy (-SP Regen))")
+locale("ThirstState_Parched", "Your throat is dry...")
+locale("ThirstState_Thirsty", "Your start to desire something to drink")
+locale("ThirstState_DryMouth", "Your mouth begins to go dry")
+locale("ThirstState_Hydrated", "You are feeling Hydrated! (+SP Regen)")
+
+locale("HungerState_Starving", "Your stomach is eating at you (-HP Regen)")
+locale("HungerState_Famished", "You are feeling quite famished!")
+locale("HungerState_Hungry", "You are beginning to feel hungry...")
+locale("HungerState_Content", "You are feeling comfortable")
+locale("HungerState_Full", "You are Full! (+HP Regen)")
+
+locale("MuttonRaw", "Raw Sputton")
+locale("MuttonRawFlavor", "The raw meat of a Speep")
+locale("MuttonCooked", "Cooked Sputton")
+locale("MuttonCookedFlavor", "This is cooked meat that is delicious and satisfying")
